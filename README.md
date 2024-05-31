@@ -15,9 +15,10 @@ php + vue
 
 #### 安装教程
 
-图文教程链接： https://wiki.halin.net/details?id=3
+B站视频链接：https://www.bilibili.com/video/BV1fZKZeEEwE/?vd_source=82519763e54cf01a325738ce8151ea9f
 
-视频教程：https://v.qq.com/x/page/q32456iqkew.html
+百度网盘分享下载链接：https://pan.baidu.com/s/1rMzg7UNvdSA3YYiFrjkkEA?pwd=volu
+提取码：volu
 
 
 
